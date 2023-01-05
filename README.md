@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Hakimzadeh
-- 👀 I’m interested in Bioinformatics and developing pipelines in Metabarcoding.  
+- 👀 I’m interested in Bioinformatics analysis and developing pipelines.  
 - 🌱 I’m currently learning and developing my Scripts on several programming languages(Python, R, Bash, Groovy). 
 - 💞️ I’m looking to collaborate on Metabarcoding and RNASeq Data analysis.
 - 📫 How to reach me 
