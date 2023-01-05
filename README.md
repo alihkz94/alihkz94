@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Hakimzadeh
-- 👀 I’m interested in Bioinformatics and developing pipelines in Metabarcoding. I am professional in analysing RNASeq Data Too!   
-- 🌱 I’m currently learning and developing my Scripts on Bash and Python. 
+- 👀 I’m interested in Bioinformatics and developing pipelines in Metabarcoding.  
+- 🌱 I’m currently learning and developing my Scripts on several programming languages(Python,R,Bash, Groovy). 
 - 💞️ I’m looking to collaborate on Metabarcoding and RNASeq Data analysis.
 - 📫 How to reach me 
 ali.hakimzadeh@ut.ee; Hakimzadeh.ali993@gmail.com
